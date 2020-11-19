@@ -1,0 +1,41 @@
+body{
+    overflow-y: hidden;
+    margin:0;
+    padding: 0;
+    font-family: verdana;
+    background-image: url('background.jpg');
+  }
+  form{
+    font-family: arial;
+    background-color: #CF3A28;
+    width: 300px;
+    margin: 180px auto;
+    padding: 30px;
+    text-align: right;
+    color: #2D2D2D;
+    border-radius: 10px 10px;
+    
+  }
+  input{
+    margin: 10px;
+  }
+  input.login{
+    background-color: #E7E7E7;
+    color: #152B54;
+    font-family: verdana;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 5px 10px;
+    margin: 30px 10px auto 0px;
+  }
+  p{
+    text-align:center;
+    margin: 50px auto;
+    margin-top: 10px;
+    padding: 10px;
+    font-weight: bold;
+    color: #152B54;
+    font-family: verdana;
+    background-color: #E7E7E7;
+    border-radius: 20px;
+  }
